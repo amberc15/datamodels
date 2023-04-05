@@ -1,0 +1,1 @@
+DbVisualizer can be accessed here https://www.dbvis.com/download/?utm_source=softwaretestinghelp&utm_medium=referral&utm_campaign=database_management_list. It is open source and a Network data model. It is also a client/server model. To access it through Java you create a new driver and insert jdbc:access: in the format box. 
